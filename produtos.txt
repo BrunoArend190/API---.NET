@@ -1,0 +1,51 @@
+ID;Nome;Descrição;Preço;Quantidade;Código de Barras
+1;Coca-Cola;Refrigerante sabor cola;4.50;150;7894900000000
+2;Guaraná Antártica;Refrigerante sabor guaraná;4.50;100;7894900000001
+3;Fanta Laranja;Refrigerante sabor laranja;4.50;120;7894900000002
+4;Sprite;Refrigerante sabor limão;4.50;80;7894900000003
+5;Schweppes;Refrigerante sabor limão;5.00;60;7894900000004
+6;Heineken;Cerveja lager;7.00;200;7894900000005
+7;Budweiser;Cerveja lager;6.50;180;7894900000006
+8;Skol;Cerveja;5.50;220;7894900000007
+9;Brahma;Cerveja;5.50;200;7894900000008
+10;Stella Artois;Cerveja;8.00;90;7894900000009
+11;Red Bull;Energético;12.00;50;7894900000010
+12;Monster;Energético;10.00;70;7894900000011
+13;Guaraná Kuat;Refrigerante sabor guaraná;4.50;110;7894900000012
+14;Pepsi;Refrigerante sabor cola;4.50;130;7894900000013
+15;Tônica;Água tônica;5.00;85;7894900000014
+16;Cerveja Corona;Cerveja;10.00;40;7894900000015
+17;Cerveja Original;Cerveja;9.00;60;7894900000016
+18;Cerveja Eisenbahn;Cerveja artesanal;12.00;30;7894900000017
+19;Cerveja Devassa;Cerveja;8.50;55;7894900000018
+20;Cachaça 51;Cachaça;25.00;45;7894900000019
+21;Pitu;Cachaça;30.00;25;7894900000020
+22;Brahma Extra;Cerveja;6.50;75;7894900000021
+23;Chopp Schin;Chopp;5.50;90;7894900000022
+24;Cerveja Bohemia;Cerveja;10.00;50;7894900000023
+25;Cerveja Colorado;Cerveja artesanal;15.00;30;7894900000024
+26;Vinho Miolo;Vinho tinto;35.00;40;7894900000025
+27;Vinho Salton;Vinho tinto;30.00;35;7894900000026
+28;Espumante Chandon;Espumante;70.00;20;7894900000027
+29;Suco Del Valle;Suco de fruta;5.00;150;7894900000028
+30;Suco de Laranja;Suco natural;6.00;120;7894900000029
+31;Água Mineral;Água;2.00;200;7894900000030
+32;Água com Gás;Água;2.50;180;7894900000031
+33;Cerveja Antártica;Cerveja;5.50;95;7894900000032
+34;Cerveja Devassa;Cerveja;9.00;50;7894900000033
+35;Refrigerante de Limão;Refrigerante;4.00;100;7894900000034
+36;Refrigerante de Uva;Refrigerante;4.00;90;7894900000035
+37;Cerveja 120;Cerveja;7.00;70;7894900000036
+38;Cerveja Nacional;Cerveja;6.00;80;7894900000037
+39;Cerveja Império;Cerveja;8.50;60;7894900000038
+40;Cerveja 3 Cariocas;Cerveja;9.50;50;7894900000039
+41;Cerveja Itaipava;Cerveja;5.50;100;7894900000040
+42;Cerveja Nova Schin;Cerveja;5.00;110;7894900000041
+43;Cerveja Brahma Chopp;Cerveja;6.50;70;7894900000042
+44;Cerveja Skol Beats;Cerveja;8.00;40;7894900000043
+45;Vinho Casa Valduga;Vinho tinto;40.00;30;7894900000044
+46;Cachaça Vale Verde;Cachaça;28.00;20;7894900000045
+47;Cerveja Backer;Cerveja artesanal;12.00;25;7894900000046
+48;Cerveja Kasteel;Cerveja;15.00;15;7894900000047
+49;Cerveja Leffe;Cerveja;14.00;20;7894900000048
+50;Cerveja Hoegaarden;Cerveja;16.00;10;7894900000049
